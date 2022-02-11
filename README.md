@@ -9,4 +9,4 @@ Tools I use:
 
 The only mistake I made was not merging my "first" branch into my master branch before pushing to Github. Otherwise, I think I did great!
 
-You can see this code in action on my [website](https://fyrfli.me/projects/qr-code-component-challenge/).
+[See this code in action.](https://fyrfli-fem-one.netlify.app/)
